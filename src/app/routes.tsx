@@ -23,6 +23,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/le-tibeb",
+    basename: "/official",
   },
 );
